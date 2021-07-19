@@ -1,6 +1,6 @@
 {
-  "name": "iron-frontend",
-  "version": "1.0",
+  "name": "adamantium-frontend",
+  "version": "1.0.0",
   "dependencies": {
     "@ethersproject/abi": "^5.1.2",
     "@ethersproject/abstract-signer": "^5.1.0",
