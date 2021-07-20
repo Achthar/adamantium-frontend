@@ -17,6 +17,7 @@
     "chartjs-adapter-date-fns": "^2.0.0",
     "chokidar": "^2.1.8",
     "date-fns": "^2.19.0",
+    "ethereumjs-abi": "*",
     "identicon.js": "^2.3.3",
     "lodash": "^4.17.21",
     "rc-slider": "^9.7.2",
